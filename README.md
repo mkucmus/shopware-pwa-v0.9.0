@@ -11,7 +11,7 @@ Feel free to customize the application by using standard CLI commands in the cod
 ```bash
 node_modules/@shopware-pwa/cli/bin/shopware-pwa -h
 
-shopware-pwa version 0.5.x
+shopware-pwa version 0.9.x
 
   version (v)     Output the version number
   build           Build your project for production
